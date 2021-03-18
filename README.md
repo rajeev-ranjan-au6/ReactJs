@@ -21,10 +21,6 @@ Learn to code and get hired with <a href="https://zerotomastery.io/?utm_source=g
 
 ---
 
-## Downloading PDF/Epub formats
-
-You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/reactjs-interview-questions/actions).
-
 ### Table of Contents
 
 | No. | Questions |
